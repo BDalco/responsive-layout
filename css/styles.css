@@ -312,7 +312,7 @@ hr.contact-section__line {
   }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1024px) {
   .wrapper {
 		width: 80%;
 		margin: 0 auto;
